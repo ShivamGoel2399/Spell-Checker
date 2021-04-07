@@ -1,0 +1,4 @@
+pip install pyspellchecker
+pip install gtts
+pip install textblob (optional)
+pip install ffmpeg-python
